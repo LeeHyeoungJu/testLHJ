@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 <script src="http://code.jquery.com/jquery-1.9.0.js"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.0.0.js"></script>
-
+<!-- TEST -->
 <script type="text/javascript"></script>
 <script type="text/javascript">
 	$(document).ready(function(){
