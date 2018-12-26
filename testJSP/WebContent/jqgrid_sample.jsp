@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
 <title>jqGrid Sample</title>
 </head>
-
+  
 <style>
 html, body {
 	margin: 10px;			/* Remove body margin/padding */
